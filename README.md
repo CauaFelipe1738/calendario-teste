@@ -1,2 +1,2 @@
 # calendario-teste
-<img src = "./calendario-preview" alt="calendario preview"> 
+<img src = "./calendario-preview.png" alt="calendario preview"> 
